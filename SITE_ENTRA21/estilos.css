@@ -1,0 +1,43 @@
+/*body {
+    background-color: rgb(236, 212, 188);
+   
+}
+
+.corDeFundo {
+    background-color: blueviolet;
+    border: 5px dashed;
+    margin: auto;
+}
+
+p {
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+    color:aliceblue
+}
+
+.pWhite {
+    font-family: 'Honk', system-ui;
+    font-size: 20px;
+}*/
+
+.divCabecalho {
+    background-color: blueviolet;
+}
+
+.divParagrafo {
+    background-color: antiquewhite;
+    font-size: 30px;
+    padding: 10px;
+    color:blueviolet;
+}
+
+.divParagrafo h1 {
+    background-color: rgb(174, 100, 2);
+    font-size: 30px;
+    padding: 10px;
+    color:yellowgreen;
+}
+
+.divFooter {
+    background-color: cadetblue;
+}
