@@ -1,0 +1,16 @@
+.profile-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 180px;
+}
+
+body{
+    background-color: azure;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
