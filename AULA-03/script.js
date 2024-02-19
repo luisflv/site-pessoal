@@ -80,6 +80,7 @@ function ocultarElemento() {
 //INSERINDO RESULTADO NO HTML
 
 function somar(){
+    
     var val1 = parseInt(document.getElementById('val1').value);
     var val2 = parseInt(document.getElementById('val2').value);
 
